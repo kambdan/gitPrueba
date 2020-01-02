@@ -10,5 +10,5 @@ package gitb;
  * @author STRIX
  */
 public class modelo {
-    
+   
 }
