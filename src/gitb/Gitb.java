@@ -17,8 +17,8 @@ public class Gitb {
     public static void main(String[] args) {
         // TODO code application logic here
        
-        System.out.println("Como te va beiby");
-        System.out.println("Feliz como siempre");
+        System.out.println("feliz");
+       
     }
     
 }
